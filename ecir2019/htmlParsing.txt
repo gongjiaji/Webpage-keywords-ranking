@@ -1,0 +1,98 @@
+
+
+Industry Day
+
+
+         By Nina Dietzel / 
+         3 months ago 
+/ 1 min read
+
+
+
+
+
+0 Comments
+0
+Comments
+
+
+
+
+
+
+
+The ECIR 2019 Industry Day will be held on Thursday 18th April 2019, immediately after the regular conference program.
+Preliminary agenda
+09:00 - 10:30   SESSION 1: PERSONALISATION: A MULTI-FACETED WORLD OF SEARCH
+
+Omar Zaidan (Microsoft) Skill Search and Smart Suggestions: Conversational Search for Personal Assistants
+Enrique Alfonseca (Google) Conversational search in the Google Assistant
+Francisco Borges (Salesforce) Enterprise Search at Salesforce: privacy, relevance and personalisation
+
+10:30 - 10:50   Coffee Break
+10:50 - 12:10   SESSION 2: A WORLD BEYOND WEB SEARCH: SEARCHING FOR NEWS, PEOPLE AND PATHOLOGIES
+
+Malvina Josephidou (Bloomberg) Learning to Rank for news search
+Allan Hanbury (Contextflow) Challenges in developing a search system to support radiologists
+Luigi Lorato, Eike Dehling, Agnes van Belle (Textkernel) Matching people and jobs: a neural IR approach
+
+12:10 - 12:20   Short break
+12:20 - 13:15   SESSION 3: ENHANCING SEARCH THROUGH TEXT ANALYTICS
+
+Jussi Karlgren (Gavagai) Text Analysis for Computational Social Science, Citizen Observatories, and Market Research: What are the practical challenges for text analysis technology (and what are not)?
+Michael Upsall (UNSILO) Tales from the Trenches: case studies of using text analytics for discovery and linking
+Peggy van der Kreeft (Deutsche Welle) SUMMA, news.bridge, and GoURMET – Language technology and automated information retrieval at DW (short teaser talk)
+
+13:15 - 14:30   Lunch break + demos
+14:30 - 16:00  SESSION 4: SEARCH IN ACTION: FROM E-COMMERCE TO ENTERPRISE
+
+Or Levi (ebay) The Unique Challenges in Ecommerce Search: A Case Study at ebay
+Jens Kürsten, Andrea Schütt (OTTO) Improving Fuzzy Searches in E-Commerce (Marketplaces)
+Christian Gross, André Schaefer (Raytion) How Enterprise Search may complement Artificial Intelligence as a Service
+
+16:00 - 16:20  Coffee break
+16:20 - 17:30  SESSION 5: OLD BUT STILL UNSOLVED SEARCH CHALLENGES: RECOMMENDATION, REPRODUCIBILITY AND E-DISCOVERY
+
+Jakub Marecek (IBM) Recommender Systems and their Effects
+Alessandro Benedetti (Sease) Search Quality Evaluation to Help Reproducibility : an Open Source Approach
+Jeremy Pickens (Catalyst) E-Discovery and Internal Investigations: The Forgotten Frontiers of Information Retrieval
+
+17:30    Social Event
+Contact person:
+Industry Day Chair
+Udo Kruschwitz, University of Essex (industry-day@ecir2019.org)
+
+
+
+Share this Article
+
+
+
+
+
+
+Subscribe to ECIR 2019
+Stay up to date! Get all the latest & greatest posts delivered straight to your inbox
+
+
+
+
+
+Subscribe
+(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');
+
+
+
+
+
+
+Nina Dietzel — info@ecir2019.org
+
+
+Read more posts by this author.
+
+
+
+
+
+

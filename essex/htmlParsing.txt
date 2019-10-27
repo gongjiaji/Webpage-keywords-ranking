@@ -1,0 +1,992 @@
+
+
+
+The Udo
+
+
+
+
+
+Udo Kruschwitz - Research Information
+
+
+
+ 
+
+Research Interests
+I am a member of the  Language and
+Computation Group (LAC) here at Essex  (most recent  17th LAC
+    Day: 21st September 2018; earlier 
+  events: 16th
+    LAC Day 2017, 15th
+    LAC Day 2016, 14th
+    LAC Day 2015, 13th
+    LAC Day 2014, 12th
+    LAC Day 2013, 11th LAC Day 2012,
+10th LAC Day 2011).
+ Check out the programme of our LAC Reading Group.
+
+
+
+
+
+
+
+
+
+My research interests are in natural language processing (NLP), information
+retrieval (IR) and the implementation of such techniques in real
+applications. The intelligent
+directory enquiry assistant (YPA) project is an example (going back quite a
+  few years now ...) where the
+extraction of information from partially structured data together with
+engineering issues played major roles in making the YPA a usable online
+system. 
+I am developing techniques that allow the extraction of
+conceptual information from document collections and the utilization of
+such knowledge in retrieval tasks. The type of documents can range from Web
+pages to newspaper articles or other forms of vaguely/partially structured
+  data. For an example application that we had in place with BT's mobile
+  workforce have a look at our log analysis study.
+
+
+Current Projects / Ongoing Collaboration
+
+
+  
+A five-year ESRC Large Grant on Human Rights in the Era of Big Data
+is now well underway. The
+Language and Computation Group (Fox/Poesio/Kruschwitz) plays a
+significant role in this project which also builds on our links with 
+the Minority Rights Group. Watch
+this space!
+
+
+  
+A
+Centre for Doctoral Training (CDT)
+on Intelligent Games and Game  Intelligence
+  (IGGI)  offering 55 PhD student scholarships over 8 years is being funded
+by the EPSRC and supported by our 60 industrial partners. To find out more
+
+explore our students' profiles! The CDT involves the University of York, the University of Essex, Queen Mary,  University of London, 
+and Goldsmiths College, University of London. If you want to know more, drop me
+an email! 
+
+  
+
+  
+A
+three-year Knowledge
+  Transfer Partnership (KTP) project (2014-2017) involving
+the Minority Rights Group and
+Essex (Poesio/Kruschwitz) aimed at new systems to
+support civilian-led monitoring of human-rights violations. 
+The Iraq Ceasefire Portal is one of the major outcomes of the project.
+
+The Corpus of Violence Acts in Arabic Social Media is an academic resource, described in more detail in our LREC 2016 paper.
+
+  
+
+A highly successful
+
+Knowledge
+  Transfer Partnership (KTP) project (2013-2015) was the starting point for an
+ongoing collaboration with Signal Media. As
+the University Lead PI I am pleased
+that Miguel
+	Martinez-Alvarez who joined us as KTP Associate is now Head of
+Research at Signal. Here is a timeline of some exciting news in our collaboration:
+
+    
+November 2014: Miguel is named a Business
+  Leader of Tomorrow (here is a
+  short video
+  portrait of Miguel ... and more coverage of the event / main
+  actors here).
+April 2015:  Best demo award at ECIR 2015
+for Signal demo, and even more exciting: Signal has just announced that it has
+raised $1.8m growth capital from top tier investors (see
+Techcrunch).
+November 2015: Signal project wins Best KTP
+Partnership Award 2015.
+ February 2016: Project features on
+      InnovateUK's
+	home page again.
+ Another landmark: Signal closes a $16m  
+
+      Series B funding round.
+      
+ December 2018: new KTP project confirmed, to start in January 2019.
+    
+
+  
+
+    Creating anaphorically annotated resources through semantic wikis (AnaWiki)
+    (EPSRC) This project has led to the development of Phrase Detectives, an
+    annotation game  aimed at the creation of semantically annotated corpora. 
+
+
+    The DALI project builds on the findings and lessons learned in PhraseDetectives.
+
+   
+
+    
+Recent Research/Development Projects
+
+
+  
+The SENSEI FP7
+  project started in November 2013 and finished in November 2016. The one-line aim of the project is to make sense
+of human-human conversation by, for example, applying advanced natural-language
+engineering techniques such as anaphora resolution and multi-document
+summarization.
+Read about the use of SENSEI technology to predict the Brexit results, or if you prefer to read articles in Polish, have a look at this one.
+
+
+
+  
+   
+    Automatic Adaptation of Knowledge Structures for Assisted Information Seeking (AutoAdapt), a project involving the
+    School of Computer Science and Electronic Engineering, Robert
+    Gordon University Aberdeen and the Open
+    University. 
+
+    This project developed and evaluated methods for adapting automatically
+    constructed domain models to the population of users' search or browsing
+    behaviour. Application and large-scale evaluation of the developed methods in
+    two information seeking scenarios - namely, interactive search and browsing -
+      were the focus of this project.
+
+
+
+PEBL-AI is a project that follows on from the Patient Experience and
+Public Engagement Blogs (PEBL) project. PEBL-AI will result in an automated
+interface
+between clinical commissioner groups (CCGs) and the communities they serve. 
+
+  
+
+    
+    Development of a career path framework, a KTP project involving the
+    School of Computer Science and Electronic Engineering and JobServe, the world's first
+    Internet Recruitment Service.   
+
+
+    
+    Development of an  intelligent mail server, a KTP project involving the
+    School of Computer Science and Electronic Engineering and Active Web Solutions (AWS), an Ipswich based
+    company devoted to cutting edge enterprise information systems.   
+
+
+
+    Learning Disabilities Data and Information Infrastructure Project (ESRC)
+
+
+
+    Markup-Based Knowledge Extraction Project (EPSRC)
+
+
+
+    Intelligent Directory Enquiry (YPA) Project (BT)
+
+Current/Recent Involvements
+
+
+	Panel chair of the Karen Spärck Jones Award  (here is the most recent call) 
+
+    (Committee member) ... read more about the IRSG here!
+
+     Winter 2019  IRSG newsletter!
+
+
+    Text Analytics Meetup in London  (Co-organiser)
+      
+
+
+    Game AI Meetup in London  (Co-organiser)
+      
+
+
+     ACL 2019 (Area Chair for Resources and Evaluation)
+      
+
+
+    ECIR 2019 Industry Day (Organiser)
+      
+
+
+
+    SIGIR 2019 (Programme Committee (full papers + short papers + demos + Industry Track (SIRIP)) 
+
+
+    ECIR 2019 (Senior Programme Committee and Doctoral Consortium Committee)
+      
+
+
+    NAACL HLT 2019 (Programme Committee)
+      
+
+Text2Story'19, workshop
+    at ECIR 2019 (Programme Committee)
+      
+
+
+    CHIIR 2019 (Programme Committee)
+      
+
+
+    The Web Conference 2019 (Programme Committee, User Modeling/Personalization/Experience Track)
+
+      
+   
+
+    WSDM 2019 (Programme Committee)
+      
+
+
+    AAAI 2019  (Programme Committee)
+
+      
+
+
+   UISTDA 2019 (Programme Committee)
+      
+
+
+   SwissText 2019  (Programme Committee)
+      
+
+
+   LDK 2019 (Programme Committee)
+      
+
+
+    Search Solutions 2018 (Co-Organiser)
+
+
+    EMNLP 2018 (Programme Committee)
+      
+
+
+    SIGIR 2018 (Programme Committee (full papers + short papers + demos)) 
+
+
+    Professional Search Workshop (ProfS2018) at SIGIR 2018 (Programme Co-Chair)
+      
+
+
+    AIRS 2018 (Programme Committee)
+      
+
+
+    Games4NLP 2018 at LREC 2018 (Programme Co-Chair)
+      
+
+
+    FDIA 2018 (Programme Committee)
+ 
+
+
+      
+ 
+
+    HCOMP 2018 (Programme Committee)
+      
+
+
+    ICTIR 2018 (Sponsorship Co-Chair)
+      
+
+
+    CHIIR 2018 (Programme Committee)
+      
+
+
+    The Web Conference 2018 (Programme Committee, User Modeling/Personalization/Experience Track)
+
+
+   
+
+    WSDM 2018 (Programme Committee)
+      
+
+
+    NAACL HLT 2018 (Programme Committee)
+      
+
+
+    CIKM 2018 (Programme Committee)
+      
+
+
+    ECIR 2018 (Senior Programme Committee + Tutorials + Demos)
+      
+
+
+    DIR 2018 (Programme Committee)
+
+
+
+   
+Text2Story'18, workshop
+    at ECIR 2018 (Programme Committee + Keynote)
+      
+
+NewsIR'18, workshop
+    at ECIR 2018 (Programme Committee)
+      
+
+
+   LREC 2018  (Scientific Committee)
+      
+
+
+   SwissText 2018  (Programme Committee)
+      
+
+
+    ISWC 2018 (Programme Committee)
+      
+
+
+    Search Solutions 2017 (Co-Organiser)
+
+
+    SIGIR 2017 (Programme Committee (full + short papers + demos + tutorials)) +  Outstanding Reviewer Award
+
+
+
+    RANLP 2017 (Programme Committee)
+      
+
+
+    FDIA 2017 (Programme Committee)
+ 
+
+ 
+
+    AIRS 2017 (Programme Committee (short papers))
+      
+
+
+    Mindtrek 2017 Data-Driven Gamification Design Worksop (Programme Committee)
+      
+
+
+    CIKM 2017 (Programme Committee)
+      
+
+
+    ISWC 2017 (Programme Committee)
+      
+
+
+    Games4NLP 2017 (Programme Committee)
+      
+
+
+    ECIR 2017 (Senior Programme Committee + Short Papers + Demos + Industry Day co-chair)
+      
+
+
+    WWW 2017 (Programme Committee, User Modeling/Personalization/Experience Track)
+ 
+   
+
+    ESWC 2017 (Co-Chair NLP+IR Track)
+
+      
+
+
+    MultiLing 2017 (Programme Committee)
+      
+
+
+    CHIIR 2017 (Programme Committee)
+      
+
+
+    MMM 2017  (Programme Committee)
+      
+
+
+    Search Solutions 2016 (Co-Organiser)
+
+Gamification for Information
+      Retrieval (GamifIR'16), workshop
+    at SIGIR 2016 (Co-Organiser)
+      
+
+
+    SIGIR 2016 (Programme Committee (full + short papers + demos))
+      
+
+
+    AIRS 2016 (Programme Committee (short papers))
+      
+
+
+    CIKM 2016 (Programme Committee)
+      
+
+Workshop on Accessing Cultural Heritage at
+    Scale at   JCDL 2016 (Programme Committee)
+
+      
+
+Workshop on Recent Advances in News Information Retrieval (NewsIR'16) at
+    ECIR 2016 (Co-Organiser)
+      
+
+
+    KONVENS 2016 (Reviewing Board)
+
+
+
+
+
+
+   
+
+    WSDM 2016 (Programme Committee)
+      
+
+
+    CHIIR 2016 (Programme Committee)
+      
+
+
+    ECIR 2016 (Senior Programme Committee + PC Demos)
+      
+
+
+   LREC 2016  (Scientific Committee)
+      
+
+
+    ACHS Workshop at JCDL 2016 (Programme Committee)
+      
+
+
+    ESWC 2016 (Programme Committee)
+
+      
+
+
+    Search Solutions 2015 (Co-Organiser)
+
+
+    MultiLing 2015 (Programme Committee)
+      
+
+
+    CIKM 2015 (Programme Committee (IR Track))
+      
+
+
+    AIRS 2015 (Programme Committee)
+      
+
+
+    JCDL 2015  (Tutorials Co-Chair)
+      
+
+
+    SIGIR 2015 (Programme Committee (full + short papers))
+      
+
+
+    FDIA 2015 (Programme Committee)
+ 
+
+
+ 
+
+
+    
+Gamification for Information Retrieval
+    (GamifIR'15), workshop
+    at ECIR 2015
+     (Co-Organiser)
+      
+
+
+    ECIR 2015  (Senior Programme Committee + Panellist)
+      
+
+
+    AAAI 2015 Student Program (Programme Committee)
+
+      
+
+
+    CLEF 2015 News Recommender Challenge (NEWSREEL)  (Steering Committee)
+      
+
+
+    ESWC 2015 (Programme Committee)
+
+      
+
+    ACL 2015 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee)
+
+
+
+   
+
+    RANLP 2015 (Programme Committee)
+      
+
+IEEE/WIC/ACM International Conference on Web Intelligence 2015
+     (Programme Committee)
+
+
+    IR 2015 (Programme Committee)
+
+      
+
+
+    Search Solutions 2014 (Co-Organiser)
+
+
+    SIGIR 2014  (Programme Committee)
+      
+
+
+    SIGIR Symposium on IR in Practice (SIRIP 2014) (Programme Committee)
+      
+
+    Gamification for Information Retrieval
+    (GamifIR'14), workshop
+    at ECIR 2014
+     (Co-Organiser)
+      
+
+    Beyond single-shot text queries: bridging the gap(s)
+      between research communities
+    (MindTheGap'14), workshop
+    at iConference 2014
+     (Co-Organiser)
+      
+
+
+    IIiX 2014 (Programme Committee)
+
+    
+
+    IRF Conference 2014 (Programme Committee)
+      
+
+
+    ECIR 2014  (Programme Committee)
+      
+
+
+   LREC 2014  (Scientific Committee)
+      
+
+    EACL 2014 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee)
+
+    
+   UMAP 2014 Workshop on Personalised Multilingual Information Access  (Programme Committee)
+
+
+
+    
+
+    CLEF 2014 News Recommender Challenge (NEWSREEL)  (Steering Committee)
+      
+
+
+    KONVENS 2014 (Reviewing Board)
+
+    
+
+    MMM 2014  (Demo Co-Chair)
+      
+
+
+    AAAI 2014 Student Program (Programme Committee)
+
+      
+IEEE/WIC/ACM International Conference on Web Intelligence 2014
+     (Programme Committee)
+
+
+    Search Solutions 2013 (Co-Organiser)
+
+
+
+    SIGIR 2013 (Short Paper and Demo Co-Chair / Programme Committee)
+      
+
+
+    SIGIR 2013 BARS Workshop (Programme Committee)
+
+      
+
+
+    SIGIR 2013 ENRICH Workshop (Programme Committee)
+
+      
+
+
+    RANLP 2013 (Programme Committee)
+      
+
+
+    IJCNLP 2013 (Programme Committee)
+      
+
+
+    ECIR 2013 (Programme Committee)
+
+      
+
+
+    DIR 2013 (Programme Committee)
+
+      
+
+
+    IRF Conference 2013 (Programme Committee)
+      
+IEEE/WIC/ACM International Conference on Web Intelligence 2013
+     (Programme Committee)
+
+
+    IR 2013 (Programme Committee)
+
+      
+
+
+    ESWC 2013 (Programme Committee)
+
+      
+
+
+    AAAI 2013 Student Program (Programme Committee)
+
+      
+
+    ACL 2013 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee)
+
+    
+
+    Future Directions in Information Access (FDIA) 2013 (Programme Committee)
+ 
+
+
+    
+    Search Solutions 2012 (Co-Organiser)
+
+    SIGIR 2012 Industry Track (Co-Chair)
+
+    Industry Track Presentations online! 
+
+
+
+    IIiX 2012 (Programme Committee)
+
+
+
+
+
+
+
+
+
+      
+    
+    ECIR 2012 Industry Day (Programme Committee)
+
+
+    
+
+    ECIR 2012 (Programme Committee)
+
+    
+    ECIR 2012 Workshop on Information Retrieval Over Query Sessions (SIR2012) (Programme Committee)
+
+
+
+    
+
+    IRF Conference 2012 (Programme Committee)
+
+    
+
+    KONVENS 2012 (Reviewing Board)
+
+    
+
+    NAACL Student Research Workshop and Doctoral Consortium 2012 (Programme Committee)
+
+    
+    EACL 2012 Joint Workshop on Information Retrieval and Hybrid Machine
+    Translation (Programme Committee)
+
+
+    
+    LREC 2012 Workshop on Creating Cross-language Resources for Disconnected Languages and Styles (Programme Committee)
+
+
+   IEEE/WIC/ACM International Conference on Web Intelligence 2012
+     (Programme Committee)
+
+
+    STAIRS 2012 (Programme Committee)
+
+
+
+
+
+
+
+
+    
+    Search Solutions 2011 (Co-Organiser)
+
+
+    ECIR 2011 Industry Day (Co-Chair)
+
+
+    
+
+    ECIR 2011 (Programme Committee)
+
+
+    
+
+    Future Directions in Information Access (FDIA) 2011 (Programme Committee)
+    
+
+    WWW 2011 (Programme Committee, Content Analysis Track)
+
+    
+
+    IRF Conference 2011 (Programme Committee and Invited Panelist)
+
+    
+
+    ACL HLT 2011 Student Session (Programme Committee)
+
+
+    
+
+    ACM Hypertext Workshop on Personalised Multilingual Hypertext Retrieval (PMHR 2011) (Programme Committee)
+
+
+   IEEE/WIC/ACM International Conference on Web Intelligence 2011
+     (Programme Committee)
+
+    Search Solutions 2010 (Co-Organiser)
+
+Missed
+it? Read
+  our article in ITNow
+
+
+    ACM CIKM 2010  (Demo Co-Chair)
+
+    
+
+    ECIR 2010  (Programme Co-Chair)
+Missed the
+conference? Conference
+  report in SIGIR Forum
+
+
+    ECIR 2010 Industry Day (Co-Organiser)
+
+
+    
+
+    IIiX 2010 (Programme Committee)
+
+
+    
+
+    ECAI 2010 (Programme Committee)
+
+  
+ 
+
+    STAIRS 2010 (Programme Committee)
+
+
+
+
+
+
+  
+
+    IRF Conference 2010 (Programme Committee)
+
+    
+
+    ACL  2010 (Programme Committee)
+
+    
+
+    ACL  2010 Student Research Workshop (Programme Committee)
+
+    
+
+    RANLP 2009 (Programme Committee)
+
+    
+
+    MinUCS 2009 (Programme Committee)
+
+    
+
+    ICTIR 2009 (Programme Committee)
+
+    
+
+    Future Directions in Information Access (FDIA) 2009 (Programme Committee)
+
+    
+
+    NODALIDA 2009 (Programme Committee)
+
+    
+
+    Special Issue of the Journal Of Natural Language Engineering on Interactive
+    QA 2009 (Guest Editorial Board)
+
+    
+
+    Corpus Profiling Workshop 2008; co-located
+    with Information Interaction in Context (IIiX 2008)  
+(Organising Committee)
+
+
+    
+
+    ECML/PKDD Workshop on High-level Information Extraction 2008 (Programme Committee)
+
+    
+
+    Future Directions in Information Access (FDIA) 2008 (Programme Committee)
+
+    
+
+    Flatlands 2008 (Organising Committee), organised by the Essex Language
+    and Computation Group
+
+
+    ECIR 2008 (Programme Committee)
+    
+
+    SIGIR 2007 (Demonstration Committee)
+    
+
+    RANLP 2007 (Programme Committee)
+    
+
+Teaching (2018/19)
+
+
+
+    Information Retrieval (CE306/CE706)
+
+PhD Students (some co-supervised)
+
+Dr Deirdre Lungley 
+    Dr Mahmoud
+    El-Haj
+Dr M-Dyaa
+    Albakour
+Dr Suma Adindla 
+    Dr Sharhida Saad
+    Dr Azhar Alhindi
+    Dr Jon Chamberlain
+Dr Roseline Antai
+   Dr Fawaz Alarfaj
+Dr Maha Althobaiti
+Dr Silviu Paun
+   Ans Alghamdi (Passed subject to corrections)
+    David Gundry (external co-supervisor)
+    Rob
+    Homewood (external co-supervisor)
+    Chris Madge
+Dino Ratcliffe
+Steve Zimmerman
+  
+Publications
+
+
+
+    Selected Publications
+
+Foundation and Trends © in Information Retrieval Book: "Searching the Enterprise"
+ 
+
+    Review  by Martin White (IntranetFocus)
+
+
+
+    Springer Book: "Intelligent
+    Document Retrieval"
+
+
+
+
+    Review by Informer (Newsletter of
+    the BCS IRSG)
+
+
+     Review by ACM Computing Reviews
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Udo Kruschwitz
+University of Essex
+ School of Computer Science and
+       Electronic Engineering
+Wivenhoe Park
+Colchester
+       CO4 3SQ
+       tel +44-1206-872669
+       fax +44-1206-872788
+       email:udo @ essex.ac.uk
+
+
+
+
+
+
+
+
+
+ © 1997-2018
+
+
+
+
+
+
+ © The Udo / last change: 31 January  2019
+
+
+
+_uacct = "UA-2541551-1";
+urchinTracker();
+
+
+
