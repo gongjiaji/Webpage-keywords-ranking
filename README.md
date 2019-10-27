@@ -7,6 +7,10 @@ takes specific website address as input and output various files, including pars
 tagging, split sentences, tokens, tokens without stop words, stemmed tokens and a ranking of
 keywords based on TF-IDF.
 
+![word cloud](ecir2019/Figure_2.png)
+
+![word cloud](essex/Figure_1.png)
+
 # Step by step description
 
 ## The complete system
